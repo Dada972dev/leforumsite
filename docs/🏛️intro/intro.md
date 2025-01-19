@@ -16,4 +16,4 @@ La *domus* était plus qu'une simple maison ; elle représentait un espace de vi
 
 ### 🖼️ Image illustrative
 
-![la domus intro md image.png](image%2Fla%20domus%20intro%20md%20image.png)
+

@@ -13,4 +13,3 @@ La domus, était un projet né d'un devoir certe, mais dont nous avons appris be
   
 
 ### 🖼️ Image de projet
-![domsu img offi 2.png](image%2Fdomsu%20img%20offi%202.png)

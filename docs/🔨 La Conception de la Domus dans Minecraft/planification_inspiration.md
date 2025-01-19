@@ -14,5 +14,5 @@ Les conditions importantes :
 - 3 salles meublées
 - Un jardin decoré
 ### 🖼️ La villa reproduite.
-![domus gallo - 275.jpg](image%2Fdomus%20gallo%20-%20275.jpg)
+
 

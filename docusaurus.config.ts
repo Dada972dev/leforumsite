@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'La domus',
+  title: 'Le romanum',
   tagline: 'Bienvenue!',
   favicon: 'img/favicon.ico',
 
@@ -42,12 +42,12 @@ const config: Config = {
     announcementBar: {
       id: "prerelease",
       content: 'The Wiki is currently in development, some pages may be incomplete or missing.',
-      backgroundColor: "#df4b30",
+      backgroundColor: "#fd5440",
       textColor: "#ffffff",
       isCloseable: true,
     },
     navbar: {
-      title: 'La domus',
+      title: 'Le romanum',
       logo: {
         alt: '',
         src: 'img/logo.svg',
@@ -57,7 +57,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Les infos',
+          label: 'La visite',
         },
       ],
     },
