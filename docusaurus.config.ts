@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import { Analytics } from "@vercel/analytics/react"
 
 const config: Config = {
-  title: 'Le romanum',
+  title: 'Forum: Le romanum',
   tagline: 'Bienvenue!',
   favicon: 'img/favicon.ico',
 
