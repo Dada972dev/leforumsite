@@ -6,7 +6,6 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🏛️ Introduction',
       items: [
-        '🏛️intro/historique',
         '🏛️intro/intro',
       ],
     },
