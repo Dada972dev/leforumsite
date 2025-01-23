@@ -6,7 +6,7 @@
     background-size: cover; /* Redimensionne l'image pour couvrir toute la zone */
     background-position: center; /* Centre l'image horizontalement et verticalement */
     height: 100vh; /* Utilise la hauteur totale de la vue du navigateur */
-    color: white; /* Couleur du texte sur l'image de fond, adaptez selon votre image */
+    color: rgb(0, 0, 0); /* Couleur du texte sur l'image de fond, adaptez selon votre image */
     text-align: center; /* Centre le texte */
     display: flex;
     flex-direction: column; /* Aligne les éléments en colonne */
@@ -23,5 +23,5 @@
 }
 
 .hero--primary .button {
-    margin-top: 20px; /* Espacement entre les boutons */
+    margin-top: 22px; /* Espacement entre les boutons */
 }

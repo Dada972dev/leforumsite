@@ -19,7 +19,7 @@ function HomePageHeader() {
           <Link
             className="button button--outline button--secondary button--lg"
             to="/docs/🏛️intro/intro">
-            Entrer dans la domus
+            Demarrer la visite
           </Link>
         </div>
       </div>
