@@ -13,8 +13,6 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: '🎓Les lieux clés',
       items: [
-        '💻developpement/logiciels_utilises',
-        '💻developpement/methodologie_conception',
         '💻developpement/💻developpement',
       ],
     },
