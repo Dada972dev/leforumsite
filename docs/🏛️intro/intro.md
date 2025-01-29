@@ -8,6 +8,11 @@ sidebar_position: 1
 
 Bienvenue! 
 Vous êtes actuellement sur le site du romanum , un site historique du : ème siecle!
+:::warning
+
+Cet espace et sous vidéo protection! Toutes actions non conformes seront passables de poursuites!
+
+:::
 
 Il est situé dans le site archéologique le plus important de Rome, entre les collines du Capitole et du Mont Palatin.
 
@@ -17,5 +22,15 @@ Il est situé dans le site archéologique le plus important de Rome, entre les c
 
  Vous arrivez au Forum Romain via la Via Sacra, la voie la plus ancienne et la plus connue de Rome. Le nom de « Voie Sacrée » est dû aux nombreux temples et autres lieux de culte se situant le long de cette rue.
 
-
+:::info
 Lors de votre visite, vous rencontrerez des qrcodes , scannez les pour avoir plus d'information sur le lieu.
+
+:::
+
+:::danger
+
+Merci de ne pas **toucher /marcher** sur les vesitges sous peine de poursuite.
+
+:::
+
+
