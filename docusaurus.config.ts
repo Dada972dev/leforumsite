@@ -8,11 +8,11 @@ const config: Config = {
   tagline: 'Bienvenue!',
   favicon: 'img/favicon.ico',
 
-  url: 'https://ladomusweb.vercel.app/',
+  url: 'https://leforumsite.vercel.app/',
   baseUrl: '/',
 
   organizationName: 'Dada972dev',
-  projectName: 'La domus web',
+  projectName: 'leforumsite',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -29,7 +29,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
+            'https://github.com/Dada972dev/leforumsite',
         },
         theme: {
           customCss: './src/css/custom.css',
