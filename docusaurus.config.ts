@@ -58,7 +58,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'La visite',
+          label: '',
         },
       ],
     },
